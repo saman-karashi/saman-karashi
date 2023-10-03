@@ -21,7 +21,7 @@
 
 - :zap: In my spare time, I devour tech books and solve problmes on website such as codewars,leetcode once in a while.
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Linkdin-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/saman-rampage-3b8a27293/)
+- :mailbox:How to reach me: samanjuniorprogrammer@gmail.com
 
 ---
 
